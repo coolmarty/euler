@@ -23,8 +23,8 @@ def amicable(x, y):
     return False
 
 def main():
-    div_check = sum_proper_divisors(220)
-    print(div_check)
+#    div_check = sum_proper_divisors(220)
+#    print(div_check)
     x = 1
     amicable_total = 0   
     for i in range(1,10000):
